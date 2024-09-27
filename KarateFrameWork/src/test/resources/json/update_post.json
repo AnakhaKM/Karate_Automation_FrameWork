@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "title": "This is A the title brat",
+  "content": "This is the post content",
+  "slug": "this-is-the-slug",
+  "picture": "https://path.to/picture.jpg",
+  "user": 5
+}
